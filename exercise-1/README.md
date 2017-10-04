@@ -20,6 +20,10 @@ text editor of your choice
 
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
+ Ordered list of breakfast items:
+  1) Chocolate Muffin
+  2) Didn't get to eat anything else
+  3) I didn't even get to have water at home which is sad
 
 6. Using your terminal, add and commit the changes you've made to your repository
 
