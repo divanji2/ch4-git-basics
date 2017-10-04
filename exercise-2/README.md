@@ -8,6 +8,8 @@ merge the changes back to the others.
    b) complete -- a version with solutions.
    
    list all the versions using git.
+   1) Master branch
+   2) complete branch 
 
 2. Modify this version, by answering the question above ;-)
 
